@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+
+.form-signin{
+    max-width:400px;
+    justify-content: center;
+}
+
+.formdiv
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:5%;
+}
+
+.cardContainer
+{
+    display: flex;
+}
